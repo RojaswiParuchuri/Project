@@ -1,0 +1,3 @@
+#ignore all the .txt files underneath that type
+
+*.txt
